@@ -1,3 +1,4 @@
 # HDU
-# Food Science & Engineering of Ji Lin Agricultural University
-# int09
+
+Food Science & Engineering
+Computer Science & Technology
